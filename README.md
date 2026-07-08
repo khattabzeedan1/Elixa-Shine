@@ -43,11 +43,12 @@ A fully responsive, dynamic E-Commerce platform built with PHP and MySQL, engine
 
 ---
 
+
 ## 🎥 Demo
 
-| User interface demonstration video | Video demonstrating the admin interface |
-| :---: |
-| ![user Demo](docs/web_v1.mp4) | ![admin Demo](docs/web_v2.mp4) |
+| User Interface Demo | Admin Interface Demo |
+| :---: | :---: |
+| ![User Interface Demo](./docs/web_v1.gif) | ![Admin Interface Demo](./docs/web_v2.gif) |
 
 ---
 

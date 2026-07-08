@@ -38,7 +38,7 @@ A fully responsive, dynamic E-Commerce platform built with PHP and MySQL, engine
 ## 📸 Screenshots
 
 | Most features |
-| :---: | :---: |
+| :---: |
 | ![Dashboard](docs/elixa_photo.png) |
 
 ---
@@ -47,7 +47,7 @@ A fully responsive, dynamic E-Commerce platform built with PHP and MySQL, engine
 
 | User interface demonstration video | Video demonstrating the admin interface |
 | :---: |
-| ![user Demo](docs/web_v1.gif) | ![admin Demo](docs/web_v2.gif) |
+| ![user Demo](docs/web_v1.mp4) | ![admin Demo](docs/web_v2.mp4) |
 
 ---
 

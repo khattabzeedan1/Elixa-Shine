@@ -1,0 +1,19 @@
+# Vendor and dependencies
+/vendor/
+
+# Environment and sensitive Database credentials
+.env
+config.local.php
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp

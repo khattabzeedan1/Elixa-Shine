@@ -14,7 +14,6 @@ function getCityInfo($conn, $cityName) {
     } catch (Exception $e) { }
     return null;
 }
-
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     try {
         $customer_name = cleanInput($_POST['customer_name']);
@@ -96,7 +95,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         // 3. Process Items
         foreach ($items as $item) {
-            if ($item['quantity'] > $item['stock_quantity']) {
+            if ($item['quantity'] > $item['stock']) {
                 throw new Exception('المنتج ' . $item['name'] . ' ما في منه كمية كافية');
             }
 

@@ -5,7 +5,7 @@ session_start();
 // Database credentials
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
-define('DB_PASS', 'rootroot');
+define('DB_PASS', '');
 define('DB_NAME', 'ecommerce_db');
 
 // Create connection with UTF8MB4 support
